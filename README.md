@@ -34,5 +34,5 @@ An end-to-end, optimized Computer Vision pipeline designed to identify facial de
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/YOUR_USERNAME/Deepfake-Detection-MobileNetV2.git](https://github.com/YOUR_USERNAME/Deepfake-Detection-MobileNetV2.git)
+git clone [https://github.com/adityadhanraj24/DeepFake-Detection-Model](https://github.com/adityadhanraj24/DeepFake-Detection-Model)
 cd Deepfake-Detection-MobileNetV2
